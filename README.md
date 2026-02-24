@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge&logo=streamlit" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Forecasting-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deep%20Learning-LSTM-purple?style=for-the-badge" />
