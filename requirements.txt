@@ -11,3 +11,4 @@ textblob
 gtts
 requests
 beautifulsoup4
+vaderSentiment
