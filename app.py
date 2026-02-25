@@ -15,7 +15,7 @@ ARIMA • Prophet • LSTM • NLP • Trading Signals
 
 st.markdown("---")
 
-st.sidebar.success("Select a module from the sidebar")
+# st.sidebar.success("Select a module from the sidebar")
 
 st.info("""
 This platform integrates:
@@ -25,3 +25,4 @@ This platform integrates:
 - 🧠 Twitter + Reddit Sentiment
 - 🎯 Trading Signals
 """)
+
