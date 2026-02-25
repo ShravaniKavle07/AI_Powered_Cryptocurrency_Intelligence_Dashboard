@@ -22,7 +22,8 @@ This platform integrates:
 - 📈 Market Data
 - 🔮 Forecasting Models
 - 📉 Volatility Analytics
-- 🧠 Twitter + Reddit Sentiment
+- 🧠 News Sentiment
 - 🎯 Trading Signals
 """)
+
 
