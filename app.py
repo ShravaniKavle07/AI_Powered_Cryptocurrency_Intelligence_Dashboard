@@ -7,7 +7,7 @@ st.set_page_config(
 )
 
 st.markdown("""
-# 🚀 Crypto Quant Intelligence Platform
+# 🚀 AI Powered Cryptourrency Intelligence Platform
 
 ### Advanced Bitcoin Forecasting & Sentiment Analytics
 ARIMA • Prophet • LSTM • NLP • Trading Signals
@@ -25,5 +25,6 @@ This platform integrates:
 - 🧠 News Sentiment
 - 🎯 Trading Signals
 """)
+
 
 
