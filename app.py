@@ -24,7 +24,9 @@ This platform integrates:
 - 📉 Volatility Analytics
 - 🧠 News Sentiment
 - 🎯 Trading Signals
+- 🤖 AI Assistant
 """)
+
 
 
 
