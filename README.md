@@ -13,6 +13,15 @@
 <p align="center">
 
 ---
+
+## 🌐 Live Demo
+
+🚀 **Try the AI-Powered Cryptocurrency Intelligence Dashboard here:**
+
+👉 **[Launch Streamlit App](https://ai-powered-crypto-dashboard.streamlit.app/)**
+
+---
+
 # 🚀 AI-Powered Cryptocurrency Intelligence Dashboard 
 
 An end-to-end cryptocurrency analytics platform that integrates **time-series forecasting**, **sentiment analysis**, and **automated trading signal generation** into a unified interactive dashboard.
@@ -241,6 +250,7 @@ streamlit run app.py
 - Reinforcement learning trading agent  
 
 ---
+
 
 ## 👩‍💻 Author
 
