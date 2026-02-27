@@ -72,7 +72,7 @@ fig = go.Figure(go.Indicator(
     }
 ))
 
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width="stretch")
 
 # ---------------------------------------------------
 # 6️⃣ Trading Signal Display
@@ -135,10 +135,14 @@ new_entry = pd.DataFrame([{
     "Signal": signal
 }])
 
-st.session_state.signal_history = pd.concat(
-    [st.session_state.signal_history, new_entry],
-    ignore_index=True
-)
+if st.session_state.signal_history.empty:
+    st.session_state.signal_history = new_entry
+else:
+    st.session_state.signal_history = pd.concat(
+        [st.session_state.signal_history, new_entry],
+        ignore_index=True
+    )
 
 st.subheader("📜 Signal History Log")
+
 st.dataframe(st.session_state.signal_history.tail(10))
